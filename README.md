@@ -9,11 +9,14 @@ Problemas resolvidos para treinar a aplicação de vetores.
 ⭐ 'Negativos': exibe todos os números negativos armazenados no vetor. <br>
 ⭐ 'Soma Vetor': soma todos os valores do vetor, exibindo essa soma e a média. <br>
 ⭐ 'Alturas': recebe dois números e determina se eles são múltiplos entre si. <br>
-⭐ Programa recebe um horário inicial e um horário final e determina a quantidade de horas. <br>
-⭐ Programa com base em uma tabela de preços, recebe um código e uma quantidade e exibe o valor final. <br>
-⭐ Programa que recebe um número e determina em que intervalo de números ele está. <br>
-⭐ Programa recebe os valores de X e Y. E determina qual a posição do ponto. <br>
-⭐ Programa calcula imposto de renda, de uma país imaginario com valores inventados. <br>
+⭐ 'Números Pares': recebe um horário inicial e um horário final e determina a quantidade de horas. <br>
+⭐ 'Maior Posição': com base em uma tabela de preços, recebe um código e uma quantidade e exibe o valor final. <br>
+⭐ 'Soma Vetrores': que recebe um número e determina em que intervalo de números ele está. <br>
+⭐ 'Abaixo da Média': recebe os valores de X e Y. E determina qual a posição do ponto. <br>
+⭐ 'Media Pares': calcula imposto de renda, de uma país imaginario com valores inventados. <br>
+⭐ 'Mais Velho': calcula imposto de renda, de uma país imaginario com valores inventados. <br>
+⭐ 'Aprovados': calcula imposto de renda, de uma país imaginario com valores inventados. <br>
+⭐ 'Dados Pessoas': calcula imposto de renda, de uma país imaginario com valores inventados. <br>
 > Finalizado ✅
 
 ## Tecnologias Utilizadas:
