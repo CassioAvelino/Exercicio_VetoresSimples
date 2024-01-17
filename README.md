@@ -4,6 +4,8 @@
 # Exercicios_VetoresSimples
 Lista de Exercícos do Curso [Java COMPLETO 2023 Programação Orientada a Objetos +Projetos] - Seção 10 - Nelio Alves.
 
+❗Esse README.md ainda está sendo criado
+
 Problemas resolvidos para treinar a aplicação de vetores.
 
 ⭐ 'Negativos': exibe todos os números negativos armazenados no vetor. <br>
